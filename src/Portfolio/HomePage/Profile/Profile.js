@@ -30,9 +30,11 @@ export default function Profile(){
                         </span>
                     </div>
                     <div className = "profile-buttons">
-                        <button className = "btn primary-btn">
-                            Contact Me {" "}
-                        </button>
+                        <a href = "#contact-me">
+                            <button className = "btn highlighted-btn">
+                                Contact Me {" "}
+                            </button>
+                        </a>
                         <a href = "AkshayaResume2022.pdf" download = "AkshayaResume.pdf">
                             <button className = "btn highlighted-btn">Download Resume</button>
                         </a>
