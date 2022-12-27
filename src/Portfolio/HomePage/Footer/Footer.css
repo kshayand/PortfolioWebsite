@@ -1,0 +1,74 @@
+body{
+    font-family: "Poppins Light";
+    font-size: 20px;
+    color: (53,53,53);
+}
+.footer-container{
+    height: 30%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.svg-icons path{
+    fill:rgb(5, 39, 68);
+}
+
+svg path{
+    fill:aliceblue;
+  }
+.vertical-timeline::before {
+    background: transparent;
+}
+.vertical-timeline-element:not(:last-child)::before {
+    content: '';
+    position: absolute;
+    top: 30px;
+    left: 18px;
+    height: calc(100%);
+    width: 4px;
+    background: #0098ED;
+}
+@media only screen and (min-width: 1170px){
+  .vertical-timeline.vertical-timeline--two-columns .vertical-timeline-element:not(:last-child)::before {
+    left: 50%;
+    top: 60px;
+    margin-left: -2px;
+  }
+}
+#description{
+    margin: 1.5em,0,2.5em, 0;
+}
+.button{
+    text-decoration: none;
+    padding: 0.5em,1em;
+    border-radius: 5px;
+}
+.vertical-timeline-element{
+    padding: 0%;
+    margin: 0%;
+}
+
+.vertical-timeline-element--work .vertical-timeline-element-content {
+    border-radius: 0.25em;
+    border: 4px solid transparent;
+    border-image: linear-gradient(to right, #000000, #0098ED);
+    border-image-slice: 1;
+}
+.vertical-timeline-element-content-arrow {
+    display: none;
+  }
+
+.workButton{
+    background-color: #06d6a0;
+    text-decoration: none;
+}
+.schoolButton{
+    background-color: #f9c74f;
+    text-decoration: none;
+}
+.vertical-timeline-element-content{
+    border-width: 5em;;
+    border-color: #333;
+}

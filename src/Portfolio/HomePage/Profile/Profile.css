@@ -1,0 +1,83 @@
+.profile-container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 10%;
+    min-height: fit-content;
+    
+}
+.profile-parent{
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+}
+
+.profile-details-name{
+    font-size: 24px;
+    font-family : "Poppins SemiBold"
+}
+.profile-details-role{
+    display:flex;
+    flex-direction: column;
+    margin: 14px 0 24px 0;
+}
+.profile-details-role h1{
+    font-size: 40px;
+    font-family: cursive;
+}
+.primary-text {
+    color: var(--white);
+}
+.highlighted-text{
+    color: #0098ED;
+}
+.profile-details-role-tagline{
+    font-size: 19;
+    margin: 5px 0,0,0;
+    font-family: "Poppins Light";
+}
+.profile-buttons button{
+    margin-right: 5%;
+    margin-left: 5%;
+    
+}
+.profile-buttons .highlighted-btn{
+    margin: 0,0,0,28px;
+    background-color: #0098ED;
+}
+.profile-buttons .highlighted-btn:hover{
+    margin: 0,0,0,28px;
+    background-color: cornsilk;
+    color: #111;
+}
+.profile-picture{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0, 1px ,0,0, var(--white);
+    border-radius: 50%;
+    height: 380px;
+    width: 380px;
+    padding: 50px;
+}
+.profile-picture-background{
+    height: 92%;
+    width: 92%;
+    background-image: url("../../../assets/home/professional_pic.jpeg");
+    background-size: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.profile-picture-background:hover{
+    transform: scale(1.07);
+    transition: 1s ease-out;
+}
+.socials .socials-icon i{
+    padding: 8px;
+    padding-left: 0px;
+}
+.socials .socials-icon i:hover{
+    transform: scale(1.5);
+}
