@@ -40,8 +40,11 @@ export default function Contact(){
             </div>
             <div className = "socials">
                 <div className = "socials-icon">
-                    <a href = 'https://www.linkedin.com/in/akshaya-anand-271814100' >
+                    <a href = 'https://www.linkedin.com/in/akshaya-anand-271814100' target="_blank" rel="noopener noreferrer" >
                         <i className = "fa fa-linkedin"></i>
+                    </a>
+                    <a href = 'https://github.com/kshayand' target="_blank" rel="noopener noreferrer" >
+                        <i className="fa fa-github"></i>
                     </a>
                 </div>
             </div>
