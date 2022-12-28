@@ -34,7 +34,7 @@ let timelineElements = [
 
     }, 
     {
-        id:5,
+        id:4,
         title: "Automated 5 phase classification of CT scans",
         location: "The National Institutes of Health, Bethesda", 
         description: "Automated classification of arterial, portal venous, nephrographic, delayed, and non-contrast phases for axial CT.",
@@ -44,7 +44,7 @@ let timelineElements = [
 
     }, 
     {
-        id:4,
+        id:5,
         title: "Treehacks Hackathon Award",
         location: "Stanford University", 
         description: "EmergeNeed - An app to provide tools to use during a medical emergency.",
@@ -54,7 +54,7 @@ let timelineElements = [
         icon: "award"
     },
     {
-        id:7,
+        id:6,
         title: "Technica Hackathon Award",
         location: "University of Maryland, College Park", 
         description: "SheConnect - An app to connect women+ in tech through coffee chats.",
@@ -65,7 +65,7 @@ let timelineElements = [
 
     },
     {
-        id:2,
+        id:7,
         title: "Rare Variant Analysis and Risk Classification",
         location: "The National Institutes of Health, Bethesda", 
         description: "Conducted rare variant analysis of GRASP cohort and identified variant of interest. Used Random Forest Classifier to identify significant features from a large dataset of genes, TCR-B sequences, and clinical information",
@@ -75,7 +75,7 @@ let timelineElements = [
 
     },
     {
-        id:6,
+        id:8,
         title: "Bachelors Dual-Degree",
         location: "University of Maryland, College Park", 
         description: "Graduated with dual-degree in Computer Science and Biology.",
@@ -85,7 +85,7 @@ let timelineElements = [
 
     },
     {
-        id:7,
+        id:9,
         title: "Bitcamp Hackathon Award",
         location: "University of Maryland, College Park", 
         description: "CloseCall - An Android app to detect a car crash and notify first responders.",
