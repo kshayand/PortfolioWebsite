@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.251f6c60.css",
+    "main.js": "/PortfolioWebsite/static/js/main.291f0d35.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js",
+    "static/media/professional_pic.jpeg": "/PortfolioWebsite/static/media/professional_pic.1fef48cd226412eddd7f.jpeg",
+    "static/media/Poppins-Thin.ttf": "/PortfolioWebsite/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/PortfolioWebsite/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/PortfolioWebsite/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/PortfolioWebsite/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/PortfolioWebsite/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/PortfolioWebsite/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/PortfolioWebsite/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/school-flag-solid.svg": "/PortfolioWebsite/static/media/school-flag-solid.141e600f169505d378918b4c6d81b214.svg",
+    "index.html": "/PortfolioWebsite/index.html",
+    "static/media/medal-solid.svg": "/PortfolioWebsite/static/media/medal-solid.170b53d964cb2c8555874f9b70755ae0.svg",
+    "static/media/laptop-code-solid.svg": "/PortfolioWebsite/static/media/laptop-code-solid.2df9201d427d6f6cfeddd1f26b5aad7a.svg",
+    "main.251f6c60.css.map": "/PortfolioWebsite/static/css/main.251f6c60.css.map",
+    "main.291f0d35.js.map": "/PortfolioWebsite/static/js/main.291f0d35.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PortfolioWebsite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.251f6c60.css",
+    "static/js/main.291f0d35.js"
+  ]
+}
