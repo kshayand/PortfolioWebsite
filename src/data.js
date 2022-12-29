@@ -53,9 +53,9 @@ let timelineElements = [
 
     }, 
     {
-        id:6,
-        title: "Postbaccalaureate Research Fellow",
-        location: "The National Institutes of Health", 
+        id:5,
+        title: "Automated 5 phase classification of CT scans",
+        location: "The National Institutes of Health, Bethesda", 
         description: "Automated classification of arterial, portal venous, nephrographic, delayed, and non-contrast phases for axial CT. Accepted as oral presentation at SPIE Medical Imaging 2023.",
         skillIcons: [SVGicon.python],
         date: "September 2022",
@@ -84,10 +84,10 @@ let timelineElements = [
 
     },
     {
-        id:9,
-        title: "Postbaccalaureate Research Fellow",
-        location: "The National Institutes of Health", 
-        description: "Conducted rare variant analysis using genomic data. Used Random Forest Classifier to identify significant features from a large dataset of genes, TCR-B sequences, and clinical information.",
+        id:8,
+        title: "Rare Variant Analysis and Risk Classification",
+        location: "The National Institutes of Health, Bethesda", 
+        description: "Conducted rare variant analysis of GRASP cohort and identified variant of interest. Used Random Forest Classifier to identify significant features from a large dataset of genes, TCR-B sequences, and clinical information",
         skillIcons: [SVGicon.python, SVGicon.r],
         date: "September 2021",
         icon: "work"
