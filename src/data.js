@@ -55,7 +55,7 @@ let timelineElements = [
     {
         id:5,
         title: "Postbaccalaureate Research Fellow",
-        location: "The National Institutes of Health, Bethesda", 
+        location: "The National Institutes of Health", 
         description: "Automated classification of arterial, portal venous, nephrographic, delayed, and non-contrast phases for axial CT. Accepted as oral presentation at SPIE Medical Imaging 2023.",
         skillIcons: [SVGicon.python],
         date: "September 2022",
@@ -86,8 +86,8 @@ let timelineElements = [
     {
         id:8,
         title: "Postbaccalaureate Research Fellow",
-        location: "The National Institutes of Health, Bethesda", 
-        description: "Conducted rare variant analysis of GRASP cohort and identified variant of interest. Used Random Forest Classifier to identify significant features from a large dataset of genes, TCR-B sequences, and clinical information",
+        location: "The National Institutes of Health", 
+        description: "Conducted rare variant analysis using genomic data. Used Random Forest Classifier to identify significant features from a large dataset of genes, TCR-B sequences, and clinical information.",
         skillIcons: [SVGicon.python, SVGicon.r],
         date: "September 2021",
         icon: "work"
