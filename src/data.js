@@ -13,7 +13,7 @@ let timelineElements = [
     },
     {
         id:2,
-        title: "Co-founder",
+        title: "Co-founder, CTO",
         location: "Korion Health", 
         description: "Co-founder of a healthcare-tech company called Korion Health. We are developing a stethoscope and guided user interface to empower individuals to record their own heart and lung sounds.",
         link : <a href = "https://www.korionhealth.com/" target="_blank" rel="noopener noreferrer">Check us out<br /></a>,
