@@ -5,9 +5,9 @@ let timelineElements = [
         id:1,
         title: "Masters Student",
         location: "University of Maryland College Park", 
-        description: "First year student in the UMD Machine Learning Masters Program.",
+        description: "Masters in Machine Learning. GPA: 3.97",
         skillIcons: [],
-        date: "September 2022 - Present",
+        date: "September 2022 - December 2023",
         icon: "school"
 
     },
@@ -15,7 +15,7 @@ let timelineElements = [
         id:2,
         title: "Co-founder, CTO",
         location: "Korion Health", 
-        description: "Co-founder of a healthcare-tech company called Korion Health. We are developing a stethoscope and guided user interface to empower individuals to record their own heart and lung sounds.",
+        description: "Co-founder of Korion Health, a health-tech companu. We are developing an electronic stethoscope and guided user interface to empower patients to record their own heart and lung sounds.",
         link : <a href = "https://www.korionhealth.com/" target="_blank" rel="noopener noreferrer">Check us out<br /></a>,
         skillIcons: [SVGicon.html5, SVGicon.js, SVGicon.react],
         date: "March 2022 - Present",
@@ -26,7 +26,7 @@ let timelineElements = [
         id:3,
         title: "Independent Contractor",
         location: "5Metis", 
-        description: "Automating data processing pipelines.",
+        description: "Automated data processing pipelines.",
         skillIcons: [SVGicon.python],
         date: "March 2022 - Present",
         icon: "work"
