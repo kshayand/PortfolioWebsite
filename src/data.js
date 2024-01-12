@@ -15,7 +15,7 @@ let timelineElements = [
         id:2,
         title: "Co-founder, CTO",
         location: "Korion Health", 
-        description: "Co-founder of Korion Health, a health-tech companu. We are developing an electronic stethoscope and guided user interface to empower patients to record their own heart and lung sounds.",
+        description: "Co-founder of Korion Health, a health-tech company. We are developing an electronic stethoscope and guided user interface to empower patients to record their own heart and lung sounds.",
         link : <a href = "https://www.korionhealth.com/" target="_blank" rel="noopener noreferrer">Check us out<br /></a>,
         skillIcons: [SVGicon.html5, SVGicon.js, SVGicon.react],
         date: "March 2022 - Present",
